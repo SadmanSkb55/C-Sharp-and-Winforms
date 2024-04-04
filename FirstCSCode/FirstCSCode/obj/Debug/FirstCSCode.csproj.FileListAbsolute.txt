@@ -1,0 +1,7 @@
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\bin\Debug\FirstCSCode.exe.config
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\bin\Debug\FirstCSCode.exe
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\bin\Debug\FirstCSCode.pdb
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\obj\Debug\FirstCSCode.csproj.AssemblyReference.cache
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\obj\Debug\FirstCSCode.csproj.CoreCompileInputs.cache
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\obj\Debug\FirstCSCode.exe
+D:\Visual Studio\FirstCSharp\FirstCSCode\FirstCSCode\obj\Debug\FirstCSCode.pdb
