@@ -1,0 +1,7 @@
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\bin\Debug\FromTheBeginning-FirstCodeCS.exe.config
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\bin\Debug\FromTheBeginning-FirstCodeCS.exe
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\bin\Debug\FromTheBeginning-FirstCodeCS.pdb
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\obj\Debug\FromTheBeginning-FirstCodeCS.csproj.AssemblyReference.cache
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\obj\Debug\FromTheBeginning-FirstCodeCS.csproj.CoreCompileInputs.cache
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\obj\Debug\FromTheBeginning-FirstCodeCS.exe
+D:\Visual Studio\FromTheBeginning-FirstCodeCS\FromTheBeginning-FirstCodeCS\obj\Debug\FromTheBeginning-FirstCodeCS.pdb
